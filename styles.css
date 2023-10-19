@@ -9,11 +9,11 @@ text-align: center;
 
 .assign {
 display: flex;
-padding: 15px;
-margin: 15px;
-background: [White];
+padding: 20px;
+margin: 20px;
+background: [Blue];
 }
 .assign img {
-width: 205px;
-padding: 11px;
+width: 210px;
+padding: 9px;
 }
