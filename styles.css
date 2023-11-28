@@ -5,9 +5,9 @@ body {
  flex-wrap: wrap;
 }
 h1 {
- color: maroon;
+ color: red;
  text-align: center;
- width: 100%;
+ width: 105%;
  display: block;
 }
 h1:hover {
@@ -21,7 +21,7 @@ a {
  color: black;
 }
 .assign {
- background-color: grey;
+ background-color: white;
  margin: 10px;
  padding: 10px;
  border-radius: 20px;
@@ -32,7 +32,7 @@ a {
 .assign img {
  width: 200px;
  margin: 10px;
- border: 2px solid midnightblue;
+ border: 2px blue;
 }
 .assign img:hover {
  width: 200px;
